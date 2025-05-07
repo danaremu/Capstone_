@@ -1,0 +1,4 @@
+id,name,industry,email,phone,created_at,status
+f993b3fc-74f3-4983-be92-1bd84fcbf357,Company_1,Manufacturing,contact1@company.com,+234801230001,2023-06-20 17:18:57,inactive
+bcafd1f4-11ba-4374-b283-0b28929c2b5a,Company_2,Retail,contact2@company.com,+234801230002,2024-03-05 09:03:32,inactive
+69fb075b-d2aa-4cd7-8c5a-372a5dcd815b,Company_3,Tech,contact3@company.com,+234801230003,2023-02-17 04:48:56,active

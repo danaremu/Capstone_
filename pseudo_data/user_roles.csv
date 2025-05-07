@@ -1,0 +1,11 @@
+id,name,description,permissions
+1,Company Owner / Admin,"Full control over their company’s users, items, settings, and reports",{}
+2,Inventory Manager,"Can create/update items, manage stock entries, and view inventory reports",{}
+3,Sales Manager,"Can view and manage sales transactions, approve price changes",{}
+4,Sales Agent / Cashier,"Can perform sales, create invoices, and see own sales history",{}
+5,Store Keeper,Manages inventory updates and physical stock reconciliation,{}
+6,Accountant,"Can view financial summaries, transaction history, and generate invoices",{}
+7,Viewer / Auditor,Read-only access for reports and history (no editing rights),{}
+8,HR Manager,Can add/remove company users and manage access roles (optional),{}
+9,Marketing Analyst,Access to product and sales analytics (no operational control),{}
+10,Procurement Officer,Manages purchase orders and restocking (if module exists).,{}

@@ -1,0 +1,5 @@
+role_id,role_name,description,permissions
+1,Super Admin,Full access to all companies' data and system settings.,{}
+2,System Auditor,Read-only access for auditing all activities and logs.,{}
+3,Support Agent,Handles customer issues across companies.,{}
+4,Platform Analyst,Views aggregated analytics across companies.,{}

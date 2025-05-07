@@ -1,0 +1,2 @@
+id,user_id,company_id,action_type,resource_type,resource_id,details,timestamp
+067f80db-866d-401f-83e8-e5e6b883f3ef,f6c57301-5af9-4e36-836a-9d13e41e2be7,bcafd1f4-11ba-4374-b283-0b28929c2b5a,create,Item,ede2d870-f78c-47b2-95c8-ece1c74ffe36,{},2024-11-04 11:50:20
