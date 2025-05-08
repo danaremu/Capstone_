@@ -1,0 +1,5 @@
+host: localhost
+database: capstone
+user: postgres
+password: '@OlivePassword.'
+port: 5432

@@ -57,7 +57,7 @@ system_users = pd.DataFrame([{
 
 
 # --- Save to CSV ---
-system_roles.to_csv(csv_dir + "system_roles.csv", index=False)
+# system_roles.to_csv(csv_dir + "system_roles.csv", index=False)
 system_users.to_csv(csv_dir + "system_users.csv", index=False)
 
 print("CSV files generated: system_roles.csv and system_users.csv")

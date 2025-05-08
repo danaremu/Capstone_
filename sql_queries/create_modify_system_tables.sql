@@ -7,7 +7,7 @@ CREATE TABLE system_roles (
 
 
 CREATE TABLE system_users (
-    user_id SERIAL PRIMARY KEY,
+    user_id UUID PRIMARY KEY,
 	full_name VARCHAR(150) NOT NULL,
     email VARCHAR(150) UNIQUE NOT NULL,
     password_hash TEXT NOT NULL,
